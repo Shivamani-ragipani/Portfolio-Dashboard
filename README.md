@@ -68,7 +68,7 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the repo**
 
    ```sh
-   git clone https://github.com/yourusername/portfolio-dashboard.git
+   git clone https://github.com/Shivamani-ragipani/portfolio-dashboard.git
    ```
 
 2. **Install dependencies**
